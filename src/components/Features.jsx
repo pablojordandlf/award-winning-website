@@ -245,7 +245,7 @@ const Features = () => (
                       Finca Monte San Cristobal
                     </a>
                   </div>
-                  <div className="mt-1">Hay buses de ida y vuelta</div>
+                  <div className="mt-1">Hay buses de ida tras la misa, un bus de vuelta a las 22h y otros dos a las 00h</div>
                 </>
               }
               isDarkText={false}
